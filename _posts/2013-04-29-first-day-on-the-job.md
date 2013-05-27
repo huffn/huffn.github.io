@@ -2,7 +2,7 @@
 layout: post
 category: [journal]
 tagline: "April 29, 2013"
-tags : [monday, slc, orem]
+tags : [monday, slc, orem, restraunt]
 ---
 ## Early Traffic
 Jenna and I spent the last week unpacking our stuff and getting settled into our
